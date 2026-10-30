@@ -10,7 +10,9 @@ PREP YDS, İngilizce yeterlilik sınavına hazırlanan herkesin kendi seviyesind
 
 ## Bağlantılar
 | Ana sayfa | https://lyramidasgames.github.io/PREDYDS/ |
+
 | Gizlilik politikası ve KVKK aydınlatma metni | https://lyramidasgames.github.io/PREDYDS/gizlilik.html |
+
 | Kullanım koşulları | https://lyramidasgames.github.io/PREDYDS/kullanim.html |
 
 ---
