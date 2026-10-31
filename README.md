@@ -87,7 +87,7 @@ PREP YDS, ÖSYM ile bağlantılı değildir ve ÖSYM tarafından onaylanmamışt
 
 ## İletişim
 
-Geliştirici: Lyra Midas Games
+Geliştirici: **Umut Ağca** — Lyra Midas Games
 E-posta: [lyramidasgames@gmail.com](mailto:lyramidasgames@gmail.com)
 
 © 2026 Umut Ağca. Uygulama içeriği (sorular, açıklamalar, makale metinleri, tasarım) telif hakkıyla korunur.
