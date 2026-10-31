@@ -9,10 +9,12 @@ PREP YDS, İngilizce yeterlilik sınavına hazırlanan herkesin kendi seviyesind
 ---
 
 ## Bağlantılar
+
+| Sayfa | Adres |
+|---|---|
 | Ana sayfa | https://lyramidasgames.github.io/PREDYDS/ |
-
 | Gizlilik politikası ve KVKK aydınlatma metni | https://lyramidasgames.github.io/PREDYDS/gizlilik.html |
-
+| Hesap ve veri silme | https://lyramidasgames.github.io/PREDYDS/hesap-silme.html |
 | Kullanım koşulları | https://lyramidasgames.github.io/PREDYDS/kullanim.html |
 
 ---
@@ -70,7 +72,7 @@ PREP YDS, İngilizce yeterlilik sınavına hazırlanan herkesin kendi seviyesind
 - Reklam yok, analiz/takip aracı yok, konum ya da rehber erişimi yok.
 - Çalışma verilerin önce telefonunda saklanır; telefon değiştirdiğinde kaybolmaması için Google Firebase'de (Frankfurt, AB) yedeklenir.
 - Profil fotoğrafın yalnızca telefonunda kalır.
-- **Verilerimi indir** ile verilerinin bir kopyasını alabilir, **Hesabımı sil** ile tüm verilerini kalıcı olarak silebilirsin.
+- **Verilerimi indir** ile verilerinin bir kopyasını alabilir, **Hesabı sil** ile tüm verilerini kalıcı olarak silebilirsin.
 - Uygulama 13 yaş ve üzeri kullanıcılar içindir.
 
 Ayrıntılar için: [Gizlilik politikası](https://lyramidasgames.github.io/PREDYDS/gizlilik.html)
@@ -88,4 +90,4 @@ PREP YDS, ÖSYM ile bağlantılı değildir ve ÖSYM tarafından onaylanmamışt
 Geliştirici: Lyra Midas Games
 E-posta: [lyramidasgames@gmail.com](mailto:lyramidasgames@gmail.com)
 
-© 2026 Lyra Midas Games. Uygulama içeriği (sorular, açıklamalar, makale metinleri, tasarım) telif hakkıyla korunur.
+© 2026 Umut Ağca. Uygulama içeriği (sorular, açıklamalar, makale metinleri, tasarım) telif hakkıyla korunur.
